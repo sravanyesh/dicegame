@@ -1,0 +1,27 @@
+body{
+    background-color: #1B2430;
+}
+.topdiv{
+    width: 70%;
+    text-align: center;
+    margin: auto;
+}
+h1{
+    color: aqua;
+    font-size: 8rem;
+    font-family: cursive;
+}
+p{
+    font-family: cursive;
+    font-size: 2em;
+    color: aqua;
+
+}
+
+.dice{
+    text-align: center;
+    display: inline-block;
+}
+img{
+    width: 70%;
+}
